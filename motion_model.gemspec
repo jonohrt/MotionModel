@@ -13,6 +13,6 @@ Gem::Specification.new do |gem|
   gem.name          = "motion_model"
   gem.require_paths = ["lib"]
   gem.add_dependency 'bubble-wrap', '1.4.0'
-  gem.add_dependency 'motion-support', '>= 0.2.2'
+  gem.add_dependency 'motion-support', '>= 0.2.5'
   gem.version       = MotionModel::VERSION
 end
